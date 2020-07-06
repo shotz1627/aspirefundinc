@@ -42,3 +42,6 @@ hr {
   height: 15px;
   background-color: yellow;
 }
+input {
+    outline: 10px solid #fca600;
+}
